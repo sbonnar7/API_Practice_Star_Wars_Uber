@@ -1,8 +1,8 @@
-# Star Wars Uber
+# Star Wars Uber :milky_way: 	:star2:
 
 ## Introduction
 
-'Star Wars Uber' is my submission for Assignment 2 'Python' for the CFG Degree Program. This project is a console app that interacts with the [Star Wars Swapi API](https://swapi.dev/api/starships/) and asks users to input their preference for their next trip across the galaxy.
+'Star Wars Uber' is  This project is a console app that interacts with the [Star Wars Swapi API](https://swapi.dev/api/starships/) and asks users to input their preference for their next trip across the galaxy.
 
 ## Features
 
